@@ -158,10 +158,10 @@ class machines:
                         print(m2.read())
             case 4:
                 print("""[green]
-                      criador::lammerburro 
+                      criador::default-dark
                       redes sociais não vou falar porque sou timido [°^_^°]
                       kkkk 
-                      github: https://github.com/lammerburro
+                      github: https://github.com/default-dark
                       e isso perá 
                       """)
             case 5:
