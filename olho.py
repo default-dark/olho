@@ -180,7 +180,7 @@ class machines:
                       ─────██─▀███▀─██──────
                       ───▄─▀████▀████▀─▄────
                       ─▀█────██▀█▀██────█▀──
-                      criador::: lammerburro
+                      criador::: default-dark
                       """)
         elif menus == 2:
             print("""[red] 
@@ -207,7 +207,7 @@ class machines:
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⢡⣷⣧⣇⣧⢀⣤⣾⣿⣤⣠⣤⢴⣻⡏⢹⣿⡟⠛⡛⢿⣶⣶⣿⢿⢷⣼⠿⣿⣧⣿⡇⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⢻⡿⣿⠻⣿⣵⡿⣯⠵⠊⡤⢪⠏⠇⣴⣿⣄⣟⣥⣿⣿⠿⣿⣿⡯⣿⣿⣿⣿⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣨⣥⣼⣾⡏⠀⢿⣿⣎⠆⠀⠀⢇⠏⡜⠀⣿⣼⢋⣾⣿⣿⣥⣴⣿⣿⣿⡾⡉⠛⣿⡽⣧
-                  criador::: lammerburro""")
+                  criador::: default-dark""")
         elif menus == 3:
             print("""[green]
                       .... NO! ...                  ... MNO! ...
@@ -232,7 +232,7 @@ class machines:
                       ...... MNNNNO! .. PPPPPPPPP .. MMNON!........
                       ...... OO! ................. ON! .......
                       ................................
-                      criador::: lammerburro""")
+                      criador::: default-dark""")
         elif menus == 4:
             print("""[blue]
                       ...                            
@@ -256,7 +256,7 @@ class machines:
                      `:::::`::::::::::::;'`:;::#                O 
                       `:::::`::::::::;' /  / `:#                  
                        ::::::`:::::;'  /  /   `# 
-                      criador::: lammerburro""")
+                      criador:::default-dark""")
     def me2(self):
         rd = random.randint(1,3)
         if rd == 1:
